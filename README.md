@@ -4,7 +4,7 @@ This project focuses on data preprocessing, cleaning, and model training on the 
 
 ## Project Report
 
-You can read the full project report [here : Comprative-analysis-diabetes.pdf](https://github.com/user-attachments/files/21584972/Comprative-analysis-diabetes.pdf)
+You can read the full article about the project here : [Comprative-analysis-diabetes.pdf](https://github.com/user-attachments/files/21584972/Comprative-analysis-diabetes.pdf)
 
 
 ---
